@@ -98,7 +98,7 @@ blockquote .quote-content{
     /*全部-导航*/
     body{
         padding-top: 0;/*移动端若固定顶部导航的话高度为52px*/
-        padding-bottom: 55px;
+        /*padding-bottom: 55px;*/
     }
     #header .navbar{/*移动端导航不固定顶部*/
         /*position: relative !important;*/
